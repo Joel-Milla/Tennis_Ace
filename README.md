@@ -9,7 +9,7 @@ This project is part of a machine learning course focused on using linear regres
 - Feature Optimization: Examination of model-generated scores to evaluate and identify the effect of different features and their impact on model precision.
 
 ## Setup and installation
-You can see the process of fitting the data in [here](Tennis%20Ace.ipynb) or can install it locally using the next steps:
+You can see the Jupyter Notebook [here](StreetEasy%20Model.ipynb) or can install it locally using the next steps:
 
 **Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the [documentation](https://jupyter.org).
 
