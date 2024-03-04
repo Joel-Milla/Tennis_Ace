@@ -1,6 +1,6 @@
 # Tennis Ace Project
 
-This project is part of a machine learning course focused on using linear regression. By utilizing linear regression, the study analyzes and selects different performance features to improve the model accuracy of predicting different outcomes for [ATP](https://en.wikipedia.org/wiki/Association_of_Tennis_Professionals) players ranked in the top 1500 from 2009 to 2017.. The methodology involves training and evaluation different features and models, using the coefficient of determination (R²) as the primary metric for performance.
+This project is focused on using linear regression, applying learnings from a machine learning course. By utilizing linear regression, the study analyzes and selects different performance features to improve the model accuracy of predicting different outcomes for [ATP](https://en.wikipedia.org/wiki/Association_of_Tennis_Professionals) players ranked in the top 1500 from 2009 to 2017.. The methodology involves training and evaluation different features and models, using the coefficient of determination (R²) as the primary metric for performance.
 
 ## Features
 
